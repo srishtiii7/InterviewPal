@@ -1,1 +1,2 @@
 # InterviewPal
+Interview Pal is a real-time interview simulation application designed to bridge the gap between job preparation and actual interviews. Built using the Deepseek R-1 transformer model, this generative AI system provides personalized interview experiences by analyzing users' resumes and target job descriptions. Through a responsive chat interface, the application creates realistic interview scenarios tailored to individual career paths and positions.
